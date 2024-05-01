@@ -22,4 +22,4 @@
   <a href="mailto:itisjiraya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center">⚡ Fun fact: I'm a huge fan of anime and love watching shounen shows!</h3>
+<h3 align="center">⚡ Fun fact: I'm a stupid</h3>
