@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
-
-<h3 align="center">📫 Let's connect on Telegram!</h3>
+<h3 align="center">📫 Let's connect!</h3>
 <p align="center">
   <a href="https://t.me/jiraya_aic" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.gg/fduSjkAxky" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
 <h3 align="center">⚡ Fun fact: I'm a silly</h3>
