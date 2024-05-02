@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Just a regular teen from Russia 🇷🇺</h3>
 
-<p align="center">I'm currently studying Computer Science at university and passionate about coding, and open source projects. I love learning new technologies and building cool stuff!</p>
+<p align="center">I'm currently studying Computer Science and passionate about coding, and open source projects. I love learning new technologies and building cool stuff!</p>
 
 <h3 align="center">🛠️ My Tech Stack:</h3>
 <p align="center">
