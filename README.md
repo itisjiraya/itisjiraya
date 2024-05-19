@@ -1,13 +1,16 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/itisjiraya/" target="_blank">Jiraya</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h3 align="center">Just a regular teen from Russia 🇷🇺</h3>
 
 <p align="center">I'm currently studying Computer Science and passionate about coding, and open source projects. I love learning new technologies and building cool stuff!</p>
 
 <h3 align="center">🛠️ My Tech Stack:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E44D27?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-264EE4?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black">
 </p>
 
 <h3 align="center">📫 Let's connect!</h3>
